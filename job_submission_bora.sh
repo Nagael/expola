@@ -10,7 +10,7 @@
 # Bora nodes
 #SBATCH -C bora
 # Duration
-#SBATCH --time=03:00:00
+#SBATCH --time=04:00:00
 #Exclusive access no disturbing my cache)
 #SBATCH --exclusive
 

@@ -10,7 +10,7 @@
 # Diablo nodes
 #SBATCH -C diablo
 # Duration
-#SBATCH --time=01:30:00
+#SBATCH --time=04:00:00
 #Exclusive access (no disturbing my cache)
 #SBATCH --exclusive
 
