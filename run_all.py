@@ -10,6 +10,10 @@ mydir = os.path.dirname(sys.argv[0])
 parser = argparse.ArgumentParser("Run all MGS experiments")
 parser.add_argument("--algo", help="Choose algorithm", choices=["mgs", "a2v", "v2q"], default="mgs")
 parser.add_argument("--exec", default=None)
+parser.add_argument("--batch", default=None, type=int, nargs="+")
+parser.add_argument("--mvalues", default=None, type=int, nargs="+")
+parser.add_argument("--nvalues", default=None, type=int, nargs="+")
+parser.add_argument("--all", action="store_true")
 parser.add_argument("other", nargs="*")
 clargs = parser.parse_args()
 
@@ -23,17 +27,41 @@ if executable is None:
         executable = os.path.join(os.path.join(mydir, "../pola/hh/"), "main_v2q__time.exe")
 
 if clargs.algo == "a2v":
-    base_methods = ["hh_a2v_ll_blas", "hh_a2v_rec_blas", "hh_a2v_rl_blas", "geqr2", "geqrf"]
-    batched_methods = ["hh_a2v_ll_tiled_blas", "hh_a2v_rl_tiled_blas"]
+    if clargs.all:
+        base_methods = ["hh_a2v_ll_blas", "hh_a2v_rec_blas", "hh_a2v_rl_blas", "geqr2", "geqrf"]
+        batched_methods = ["hh_a2v_ll_tiled_blas", "hh_a2v_rl_tiled_blas"]
+    else:
+        base_methods = ["hh_a2v_ll_blas", "geqr2", "geqrf"]
+        batched_methods = ["hh_a2v_ll_tiled_blas"]
+
 elif clargs.algo == "v2q":
-    base_methods = ["hh_v2q_ll_blas", "hh_v2q_rl_blas", "hh_v2q_rec_blas", "org2r", "orgqr"]
-    batched_methods = ["hh_v2q_ll_tiled_blas", "hh_v2q_rl_tiled_blas"]
+    if clargs.all:
+        base_methods = ["hh_v2q_ll_blas", "hh_v2q_rl_blas", "hh_v2q_rec_blas", "org2r", "orgqr"]
+        batched_methods = ["hh_v2q_ll_tiled_blas", "hh_v2q_rl_tiled_blas"]
+    else:
+        base_methods = ["hh_v2q_ll_blas", "org2r", "orgqr"]
+        batched_methods = ["hh_v2q_ll_tiled_blas"]
 else:
-    base_methods = ["mgs_ll_blas", "mgs_rl_blas", "mgs_rec_blas"]
-    batched_methods = ["mgs_ll__tiled_blas", "mgs_rl__tiled_blas"]
-batch_sizes = [1, 2, 3, 4, 5, 8, 10, 16, 20, 25, 30, 32, 40, 50, 64, 75, 100, 128, 200]
+    if clargs.all:
+        base_methods = ["mgs_ll_blas", "mgs_rl_blas", "mgs_rec_blas"]
+        batched_methods = ["mgs_ll__tiled_blas", "mgs_rl__tiled_blas"]
+    else:
+        base_methods = ["mgs_ll_blas" ]
+        batched_methods = ["mgs_ll__tiled_blas"]
+
+batch_sizes = clargs.batch
+if batch_sizes is None:
+    batch_sizes = [1, 2, 3, 4, 5, 8, 10, 16, 20, 25, 30, 32, 40, 50, 64, 75, 100, 128, 200]
 # cases = [(5000, 500), (1000, 1000), (256, 256), (10000, 100), (100000, 100), (10000, 200), (100000, 200), (10000, 400), (100000, 400)]
-cases = [ (m, n) for m in [1000, 5000, 10000, 50000, 100000] for n in [100, 200, 400] ]
+mvalues = clargs.mvalues
+if mvalues is None:
+    mvalues = [1000, 5000, 10000, 50000, 100000]
+
+nvalues = clargs.nvalues
+if nvalues is None:
+    nvalues =  [100, 200, 400]
+
+cases = [ (m, n) for m in mvalues for n in nvalues ]
 repetitions = 5
 
 class Experiment:
