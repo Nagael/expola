@@ -67,6 +67,12 @@ p <- normalized_time_as_a_function_of_n(p)
 
 ggsave(paste(base_name, "_time", ".pdf", sep=""), p, width=w, height=h)
 
+p <- ggplot(res_med, aes(x=n, y=m*n*n/time, color=method)) + geom_line()
+# p <- p + geom_hline(data=res_med_base, aes(yintercept=time, color=method))
+p <- normalized_time_as_a_function_of_n(p, yaxis="MN²/t")
+
+ggsave(paste(base_name, "_flops", ".pdf", sep=""), p, width=w, height=h)
+
 # p <- ggplot(res_med, aes(x=b, y=cycles, color=method)) + geom_line()
 # p <- p + geom_hline(data=res_med_base, aes(yintercept=cycles, color=method))
 # p <- time_as_a_function_of_block_size(p, "cycles")
