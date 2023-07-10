@@ -23,14 +23,14 @@ if executable is None:
         executable = os.path.join(os.path.join(mydir, "../pola/hh/"), "main_v2q__time.exe")
 
 if clargs.algo == "a2v":
-    base_methods = ["hh_a2v_ll_blas", "geqr2", "geqrf"]
-    batched_methods = ["hh_a2v_ll_tiled_blas"]
+    base_methods = ["hh_a2v_ll_blas", "hh_a2v_rec_blas", "hh_a2v_rl_blas", "geqr2", "geqrf"]
+    batched_methods = ["hh_a2v_ll_tiled_blas", "hh_a2v_rl_tiled_blas"]
 elif clargs.algo == "v2q":
-    base_methods = ["hh_a2v_ll_blas", "org2r", "orgqr"]
-    batched_methods = ["hh_a2v_ll_tiled_blas"]
+    base_methods = ["hh_v2q_ll_blas", "hh_v2q_rl_blas", "hh_v2q_rec_blas", "org2r", "orgqr"]
+    batched_methods = ["hh_v2q_ll_tiled_blas", "hh_v2q_rl_tiled_blas"]
 else:
     base_methods = ["mgs_ll_blas", "mgs_rl_blas", "mgs_rec_blas"]
-    batched_methods = ["mgs_ll__tiled_blas"]
+    batched_methods = ["mgs_ll__tiled_blas", "mgs_rl__tiled_blas"]
 batch_sizes = [1, 2, 3, 4, 5, 8, 10, 16, 20, 25, 30, 32, 40, 50, 64, 75, 100, 128, 200]
 # cases = [(5000, 500), (1000, 1000), (256, 256), (10000, 100), (100000, 100), (10000, 200), (100000, 200), (10000, 400), (100000, 400)]
 cases = [ (m, n) for m in [1000, 5000, 10000, 50000, 100000] for n in [100, 200, 400] ]
