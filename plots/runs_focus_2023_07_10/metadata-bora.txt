@@ -1,0 +1,1968 @@
+=====my job information ====
+Node List:  bora034
+my jobID:  2193451
+Partition:  routage
+submit directory: /home/eyraud-d/pola/expola/focus
+submit host: devel03.plafrim.cluster
+In the directory: /home/eyraud-d/pola/expola/focus
+As the user: eyraud-d
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -b 8
+Running ../../pola/hh_bora_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74

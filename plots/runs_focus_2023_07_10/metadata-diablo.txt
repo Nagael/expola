@@ -1,0 +1,1968 @@
+=====my job information ====
+Node List:  diablo05
+my jobID:  2193454
+Partition:  routage
+submit directory: /home/eyraud-d/pola/expola/focus
+submit host: devel03.plafrim.cluster
+In the directory: /home/eyraud-d/pola/expola/focus
+As the user: eyraud-d
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 85 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 82 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 21 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 67 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 41 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 53 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 79 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 30 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 83 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 81 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 15 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 80 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 57 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 93 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 60 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 52 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 22 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 28 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 100 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 24 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 20 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 35 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 71 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 29 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 17 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 75 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 92 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 39 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 27 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 98 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 28 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 99 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 14 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 32 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 66 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 38 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 90 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 33 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 52 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 100 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 31 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 19 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 94 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 43 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 64 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 87 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 14 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 76 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 62 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 59 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 49 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 54 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 75 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 89 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 56 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 18 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 61 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 2 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 13 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 4 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 68 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 91 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 5 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 37 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 20 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 25 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 46 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 12 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 95 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 22 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 51 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 94 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 23 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 12 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 51 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 97 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 78 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 34 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 68 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 61 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 40 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 55 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 13 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 65 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 38 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 95 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 32 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 35 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 9 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 70 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 88 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 42 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 6 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 53 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 63 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 40 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 69 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 77 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 87 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 93 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 26 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 11 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 63 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 16 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 84 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 41 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 85 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 90 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 18 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 91 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 26 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 79 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 33 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 46 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 9 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 54 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 84 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 86 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 37 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 64 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 27 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 98 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 44 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 50 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 47 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 58 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 24 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 11 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 73 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 92 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 86 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 82 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 99 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 34 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 72 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 76 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 50 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 48 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 96 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 55 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 29 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 8 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 74 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 25 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 36 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 72 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 60 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 42 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 47 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 45 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 77 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 7 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 59 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 48 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 67 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 43 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 65 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 81 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 16 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 45 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 66 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 15 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 57 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 17 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 74 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 62 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 31 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 97 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 49 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 89 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 39 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 70 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 36 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 73 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 30 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 58 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 3 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 83 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 21 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 44 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 10 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 80 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 19 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 1 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 78 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 23 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_blas -m 5000 -n 88 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method org2r -m 5000 -n 69 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 10 -np -b 8
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 71 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method orgqr -m 5000 -n 56 -np
+Running ../../pola/hh_diablo_V2Q/main_v2q__time.exe -method hh_v2q_ll_tiled_blas -m 5000 -n 96 -np -b 8
