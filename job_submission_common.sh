@@ -8,11 +8,11 @@ if [ $1 == "MGS" ]; then
 elif [ $1 == "A2V" ]; then
     rm -rf ../pola/hh_${ARCH}_A2V
     cp -r ../pola/hh ../pola/hh_${ARCH}_A2V
-    ( cd ../pola/hh_${ARCH}_A2V/; make clean && make ) 1>&2
+    ( cd ../pola/hh_${ARCH}_A2V/; make clean && make main_a2v__time.exe ) 1>&2
 elif [ $1 == "V2Q" ]; then
     rm -rf ../pola/hh_${ARCH}_V2Q
     cp -r ../pola/hh ../pola/hh_${ARCH}_V2Q
-    ( cd ../pola/hh_${ARCH}_V2Q/; make clean && make ) 1>&2
+    ( cd ../pola/hh_${ARCH}_V2Q/; make clean && make main_v2q__time.exe ) 1>&2
 fi
 
 if [ $1 == "MGS" ]; then
