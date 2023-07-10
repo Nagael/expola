@@ -27,26 +27,14 @@ colors <- brewer.pal(7, "Set1")
 names(colors) <- c("Left Looking", "Right Looking", "Tiled LL", "Tiled RL", "Recursive", "QR2", "QR")
 colors <- colors[levels(res$method)]
 
+# res_med <- ddply(res, ~method+m+n+b, summarize, time=min(time), cycles=min(cycles), L1=min(L1), L2=min(L2))
 res_med <- ddply(res, ~method+m+n+b, summarize, time=median(time), cycles=median(cycles), L1=median(L1), L2=median(L2))
 
-# print(res_med)
-# res_med_base <- res_med[is.na(res_med$b),]
-# print(res_med[!is.na(res_med$b),])
-# res_med_best <- ddply(res_med[!is.na(res_med$b),], ~method+m+n, summarize, b=b[which.min(time)], time=min(time))
-# res_med_base_best <- ddply(res_med_base, ~m+n, summarize, method=method[which.min(time)], time=min(time))
 
-# print(res_med_base_best)
-
-# res_med_best$ratio <- res_med_base_best$time / res_med_best$time
-# res_med_best$base <- res_med_base_best$method
-
-# print(res_med_base_best)
-# print(res_med_best)
+# (*) Pour # de flops, MGS est 2*M*N^2. Et A2V et V2Q sont le même nombre et ce nombre est 2MN^2 – 2/3 N^3. 
+res_med$flops <- with(res_med, if("MGS" %in% method) { 2*m*n*n } else {2*m*n*n - 2*n*n*n/3} )
 
 base_name <- gsub(".txt", "", args[1])
-
-# dose.labs <- c("D0.5", "D1", "D2")
-# names(dose.labs) <- c(, "1", "2")
 
 normalized_time_as_a_function_of_n <- function(p, yaxis="time (s)") {
 # p <- p + facet_wrap(n~m, scales="free", labeller=partial(label_both, multi_line=FALSE), ncol=4)
@@ -67,9 +55,9 @@ p <- normalized_time_as_a_function_of_n(p)
 
 ggsave(paste(base_name, "_time", ".pdf", sep=""), p, width=w, height=h)
 
-p <- ggplot(res_med, aes(x=n, y=m*n*n/time, color=method)) + geom_line()
+p <- ggplot(res_med, aes(x=n, y=flops/time/1000/1000/1000, color=method)) + geom_line()
 # p <- p + geom_hline(data=res_med_base, aes(yintercept=time, color=method))
-p <- normalized_time_as_a_function_of_n(p, yaxis="MN²/t")
+p <- normalized_time_as_a_function_of_n(p, yaxis="Gflop / second")
 
 ggsave(paste(base_name, "_flops", ".pdf", sep=""), p, width=w, height=h)
 
