@@ -24,7 +24,7 @@ res$method <- factor(recode(res$method,
 
 res <- res[res$m >= 5000,]
 colors <- brewer.pal(7, "Set1")
-names(colors) <- c("Left Looking", "Right Looking", "Tiled LL", "Tiled RL", "Recursive", "QR2", "QR")
+names(colors) <- c("Left Looking", "QR2", "Tiled LL", "Tiled RL", "Recursive", "Right Looking", "QR")
 colors <- colors[levels(res$method)]
 
 res_med <- ddply(res, ~method+m+n+b, summarize, time=median(time), cycles=median(cycles), L3=median(L3), L2=median(L2))
