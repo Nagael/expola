@@ -7,7 +7,7 @@ suppressMessages(library(purrr))
 args <- commandArgs(trailingOnly=TRUE)
 
 # res <- read.table(args[1], col.names=c("method", "m", "n", "b", "time"), na.strings="N/A")
-res <- read.table(args[1], col.names=c("id", "method", "m", "n", "b", "time", "cycles", "L1", "L2"),
+res <- read.table(args[1], col.names=c("id", "method", "m", "n", "b", "time", "cycles", "L2", "L3"),
                   na.strings="N/A")
 
 res$method <- factor(recode(res$method,
@@ -22,12 +22,12 @@ res$method <- factor(recode(res$method,
 	   "HH_V2Q_REC_BLAS" = "Recursive", "HH_A2V_REC_BLAS" = "Recursive",
 	   "ORG2R" = "QR2", "ORGQR" = "QR", "GEQRF" = "QR", "GEQR2" = "QR2"))
 
-# res <- res[res$m >= 5000,]
+res <- res[res$m >= 5000,]
 colors <- brewer.pal(7, "Set1")
 names(colors) <- c("Left Looking", "Right Looking", "Tiled LL", "Tiled RL", "Recursive", "QR2", "QR")
 colors <- colors[levels(res$method)]
 
-res_med <- ddply(res, ~method+m+n+b, summarize, time=median(time), cycles=median(cycles), L1=median(L1), L2=median(L2))
+res_med <- ddply(res, ~method+m+n+b, summarize, time=median(time), cycles=median(cycles), L3=median(L3), L2=median(L2))
 
 # print(res_med)
 res_med_base <- res_med[is.na(res_med$b),]
@@ -73,19 +73,19 @@ p <- time_as_a_function_of_block_size(p, "cycles")
 
 ggsave(paste(base_name, "_cycles", ".pdf", sep=""), p, width=w, height=h)
 
-p <- ggplot(res_med, aes(x=b, y=L1, color=method)) + geom_line()
-p <- p + scale_y_log10()
-p <- p + geom_hline(data=res_med_base, aes(yintercept=L1, color=method))
-p <- time_as_a_function_of_block_size(p, "L1 cache misses")
-
-ggsave(paste(base_name, "_L1", ".pdf", sep=""), width=w, height=h)
-
 p <- ggplot(res_med, aes(x=b, y=L2, color=method)) + geom_line()
-p <- p + scale_y_log10()
+## p <- p + scale_y_log10()
 p <- p + geom_hline(data=res_med_base, aes(yintercept=L2, color=method))
 p <- time_as_a_function_of_block_size(p, "L2 cache misses")
 
 ggsave(paste(base_name, "_L2", ".pdf", sep=""), width=w, height=h)
+
+p <- ggplot(res_med, aes(x=b, y=L3, color=method)) + geom_line()
+## p <- p + scale_y_log10()
+p <- p + geom_hline(data=res_med_base, aes(yintercept=L3, color=method))
+p <- time_as_a_function_of_block_size(p, "L3 cache misses")
+
+ggsave(paste(base_name, "_L3", ".pdf", sep=""), width=w, height=h)
 
 
 p <- ggplot(res_med_best_best, aes(x=factor(m), y=factor(n), fill=ratio)) + geom_tile(width=1, height=1)
