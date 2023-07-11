@@ -3,6 +3,7 @@ suppressMessages(library(plyr))
 suppressMessages(library(dplyr))
 suppressMessages(library(RColorBrewer))
 suppressMessages(library(purrr))
+Sys.setenv("MKL_NUM_THREADS" = "1", "OMP_NUM_THREADS"="1")
 
 args <- commandArgs(trailingOnly=TRUE)
 
@@ -10,7 +11,14 @@ args <- commandArgs(trailingOnly=TRUE)
 res <- read.table(args[1], col.names=c("id", "method", "m", "n", "b", "time", "cycles", "L1", "L2"),
                   na.strings="N/A")
 
-res$method <- factor(recode(res$method,
+
+# res_med <- ddply(res, ~method+m+n+b, summarize, time=min(time), cycles=min(cycles), L1=min(L1), L2=min(L2))
+res_med <- ddply(res, ~method+n+m+b, summarize, "time"=median(time), "cycles"=median(cycles), "L1"=median(L1), "L2"=median(L2))
+
+# (*) Pour # de flops, MGS est 2*M*N^2. Et A2V et V2Q sont le même nombre et ce nombre est 2MN^2 – 2/3 N^3. 
+res_med$flops <- with(res_med, if("MGS" %in% method) { 2*m*n*n } else {2*m*n*n - 2*n*n*n/3} )
+
+res_med$method <- factor(recode(res_med$method,
            "MGS_LL_BLAS" = "Left Looking", "MGS_LL_TILED_BLAS"="Tiled LL",
 	   "MGS_RL_BLAS" = "Right Looking", "MGS_RL_TILED_BLAS"="Tiled RL",
 	   "MGS_REC_BLAS" = "Recursive",
@@ -22,17 +30,11 @@ res$method <- factor(recode(res$method,
 	   "HH_V2Q_REC_BLAS" = "Recursive", "HH_A2V_REC_BLAS" = "Recursive",
 	   "ORG2R" = "QR2", "ORGQR" = "QR", "GEQRF" = "QR", "GEQR2" = "QR2"))
 
-res <- res[res$m >= 5000,]
 colors <- brewer.pal(7, "Set1")
 names(colors) <- c("Left Looking", "QR2", "Tiled LL", "Tiled RL", "Recursive", "Right Looking", "QR")
-colors <- colors[levels(res$method)]
+colors <- colors[levels(res_med$method)]
 
-# res_med <- ddply(res, ~method+m+n+b, summarize, time=min(time), cycles=min(cycles), L1=min(L1), L2=min(L2))
-res_med <- ddply(res, ~method+m+n+b, summarize, time=median(time), cycles=median(cycles), L1=median(L1), L2=median(L2))
-
-
-# (*) Pour # de flops, MGS est 2*M*N^2. Et A2V et V2Q sont le même nombre et ce nombre est 2MN^2 – 2/3 N^3. 
-res_med$flops <- with(res_med, if("MGS" %in% method) { 2*m*n*n } else {2*m*n*n - 2*n*n*n/3} )
+# print(res_med)
 
 base_name <- gsub(".txt", "", args[1])
 
