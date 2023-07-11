@@ -39,7 +39,6 @@ base_name <- gsub(".txt", "", args[1])
 normalized_time_as_a_function_of_n <- function(p, yaxis="time (s)") {
 # p <- p + facet_wrap(n~m, scales="free", labeller=partial(label_both, multi_line=FALSE), ncol=4)
 p <- p + labs(x="n", y=yaxis)
-p <- p + scale_y_log10()
 p <- p + expand_limits(y=0)
 p <- p + scale_color_manual(name="Variant", values=colors, drop=TRUE)
 p <- p + theme(legend.position="bottom")
@@ -51,6 +50,7 @@ h <- 5.1
 
 p <- ggplot(res_med, aes(x=n, y=time, color=method)) + geom_line()
 # p <- p + geom_hline(data=res_med_base, aes(yintercept=time, color=method))
+p <- p + scale_y_log10()
 p <- normalized_time_as_a_function_of_n(p)
 
 ggsave(paste(base_name, "_time", ".pdf", sep=""), p, width=w, height=h)
