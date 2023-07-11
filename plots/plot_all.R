@@ -8,7 +8,7 @@ Sys.setenv("MKL_NUM_THREADS" = "1", "OMP_NUM_THREADS"="1")
 args <- commandArgs(trailingOnly=TRUE)
 
 # res <- read.table(args[1], col.names=c("method", "m", "n", "b", "time"), na.strings="N/A")
-res <- read.table(args[1], col.names=c("id", "method", "m", "n", "b", "time", "cycles", "L2", "L3"),
+res <- read.table(args[1], col.names=c("id", "method", "M", "N", "b", "time", "cycles", "L2", "L3"),
                   na.strings="N/A")
 
 res$method <- factor(recode(res$method,
@@ -23,19 +23,19 @@ res$method <- factor(recode(res$method,
 	   "HH_V2Q_REC_BLAS" = "Recursive", "HH_A2V_REC_BLAS" = "Recursive",
 	   "ORG2R" = "QR2", "ORGQR" = "QR", "GEQRF" = "QR", "GEQR2" = "QR2"))
 
-res <- res[res$m >= 5000,]
+res <- res[res$M >= 5000,]
 colors <- brewer.pal(7, "Set1")
 names(colors) <- c("Left Looking", "QR2", "Tiled LL", "Tiled RL", "Recursive", "Right Looking", "QR")
 colors <- colors[levels(res$method)]
 
-res_med <- ddply(res, ~method+m+n+b, summarize, time=median(time), cycles=median(cycles), L3=median(L3), L2=median(L2))
+res_med <- ddply(res, ~method+M+N+b, summarize, time=median(time), cycles=median(cycles), L3=median(L3), L2=median(L2))
 
 # print(res_med)
 res_med_base <- res_med[is.na(res_med$b),]
 # print(res_med[!is.na(res_med$b),])
-res_med_best <- ddply(res_med[!is.na(res_med$b),], ~method+m+n, summarize, b=b[which.min(time)], time=min(time))
-res_med_best_best <- ddply(res_med[!is.na(res_med$b),], ~m+n, summarize, b=b[which.min(time)], method=method[which.min(time)], time=min(time))
-res_med_base_best <- ddply(res_med_base, ~m+n, summarize, method=method[which.min(time)], time=min(time))
+res_med_best <- ddply(res_med[!is.na(res_med$b),], ~method+M+N, summarize, b=b[which.min(time)], time=min(time))
+res_med_best_best <- ddply(res_med[!is.na(res_med$b),], ~M+N, summarize, b=b[which.min(time)], method=method[which.min(time)], time=min(time))
+res_med_base_best <- ddply(res_med_base, ~M+N, summarize, method=method[which.min(time)], time=min(time))
 
 # print(res_med_base_best)
 
@@ -51,7 +51,7 @@ base_name <- gsub(".txt", "", args[1])
 # names(dose.labs) <- c(, "1", "2")
 
 time_as_a_function_of_block_size <- function(p, yaxis="time (s)") {
-p <- p + facet_wrap(n~m, scales="free", labeller=partial(label_both, multi_line=FALSE), ncol=4)
+p <- p + facet_wrap(N~M, scales="free", labeller=partial(label_both, multi_line=FALSE), ncol=4)
 p <- p + labs(x="Block size", y=yaxis)
 p <- p + expand_limits(y=0)
 p <- p + scale_color_manual(name="Variant", values=colors, drop=TRUE)

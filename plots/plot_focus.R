@@ -40,7 +40,7 @@ base_name <- gsub(".txt", "", args[1])
 
 normalized_time_as_a_function_of_n <- function(p, yaxis="time (s)") {
 # p <- p + facet_wrap(n~m, scales="free", labeller=partial(label_both, multi_line=FALSE), ncol=4)
-p <- p + labs(x="n", y=yaxis)
+p <- p + labs(x="N", y=yaxis)
 p <- p + expand_limits(y=0)
 p <- p + scale_color_manual(name="Variant", values=colors, drop=TRUE)
 p <- p + theme(legend.position="bottom")
