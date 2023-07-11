@@ -67,11 +67,11 @@ p <- time_as_a_function_of_block_size(p)
 
 ggsave(paste(base_name, "_time", ".pdf", sep=""), p, width=w, height=h)
 
-p <- ggplot(res_med, aes(x=b, y=cycles, color=method)) + geom_line()
-p <- p + geom_hline(data=res_med_base, aes(yintercept=cycles, color=method))
-p <- time_as_a_function_of_block_size(p, "cycles")
+# p <- ggplot(res_med, aes(x=b, y=cycles, color=method)) + geom_line()
+# p <- p + geom_hline(data=res_med_base, aes(yintercept=cycles, color=method))
+# p <- time_as_a_function_of_block_size(p, "cycles")
 
-ggsave(paste(base_name, "_cycles", ".pdf", sep=""), p, width=w, height=h)
+# ggsave(paste(base_name, "_cycles", ".pdf", sep=""), p, width=w, height=h)
 
 p <- ggplot(res_med, aes(x=b, y=L2, color=method)) + geom_line()
 ## p <- p + scale_y_log10()
@@ -88,10 +88,10 @@ p <- time_as_a_function_of_block_size(p, "L3 cache misses")
 ggsave(paste(base_name, "_L3", ".pdf", sep=""), width=w, height=h)
 
 
-p <- ggplot(res_med_best_best, aes(x=factor(m), y=factor(n), fill=ratio)) + geom_tile(width=1, height=1)
-p <- p + geom_label(aes(label=paste(method, b, round(ratio, 2), base, sep='\n')))
-p <- p + labs(x="M", y = "N", fill="Speedup of Tiled")
-p <- p + scale_fill_binned(low="yellow", high="red")
-p <- p + theme(legend.position="bottom")
+# p <- ggplot(res_med_best_best, aes(x=factor(m), y=factor(n), fill=ratio)) + geom_tile(width=1, height=1)
+# p <- p + geom_label(aes(label=paste(method, b, round(ratio, 2), base, sep='\n')))
+# p <- p + labs(x="M", y = "N", fill="Speedup of Tiled")
+# p <- p + scale_fill_binned(low="yellow", high="red")
+# p <- p + theme(legend.position="bottom")
 
-ggsave(paste(base_name, "_speedup", ".pdf", sep=""), p, width=5, height=5)
+# ggsave(paste(base_name, "_speedup", ".pdf", sep=""), p, width=5, height=5)
