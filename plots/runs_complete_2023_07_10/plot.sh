@@ -2,6 +2,6 @@
 
 for i in result-*.txt; do
     echo $i
-    Rscript ../handle_res_rect_papi.R $i
+    Rscript ../plot_all.R $i
     done
 

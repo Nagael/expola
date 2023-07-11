@@ -22,7 +22,7 @@ res$method <- factor(recode(res$method,
 	   "HH_V2Q_REC_BLAS" = "Recursive", "HH_A2V_REC_BLAS" = "Recursive",
 	   "ORG2R" = "QR2", "ORGQR" = "QR", "GEQRF" = "QR", "GEQR2" = "QR2"))
 
-res <- res[res$m >= 5000,]
+# res <- res[res$m >= 5000,]
 colors <- brewer.pal(7, "Set1")
 names(colors) <- c("Left Looking", "Right Looking", "Tiled LL", "Tiled RL", "Recursive", "QR2", "QR")
 colors <- colors[levels(res$method)]
@@ -33,12 +33,13 @@ res_med <- ddply(res, ~method+m+n+b, summarize, time=median(time), cycles=median
 res_med_base <- res_med[is.na(res_med$b),]
 # print(res_med[!is.na(res_med$b),])
 res_med_best <- ddply(res_med[!is.na(res_med$b),], ~method+m+n, summarize, b=b[which.min(time)], time=min(time))
+res_med_best_best <- ddply(res_med[!is.na(res_med$b),], ~m+n, summarize, b=b[which.min(time)], method=method[which.min(time)], time=min(time))
 res_med_base_best <- ddply(res_med_base, ~m+n, summarize, method=method[which.min(time)], time=min(time))
 
 # print(res_med_base_best)
 
-res_med_best$ratio <- res_med_base_best$time / res_med_best$time
-res_med_best$base <- res_med_base_best$method
+res_med_best_best$ratio <- res_med_base_best$time / res_med_best_best$time
+res_med_best_best$base <- res_med_base_best$method
 
 # print(res_med_base_best)
 # print(res_med_best)
@@ -73,20 +74,22 @@ p <- time_as_a_function_of_block_size(p, "cycles")
 ggsave(paste(base_name, "_cycles", ".pdf", sep=""), p, width=w, height=h)
 
 p <- ggplot(res_med, aes(x=b, y=L1, color=method)) + geom_line()
+p <- p + scale_y_log10()
 p <- p + geom_hline(data=res_med_base, aes(yintercept=L1, color=method))
 p <- time_as_a_function_of_block_size(p, "L1 cache misses")
 
 ggsave(paste(base_name, "_L1", ".pdf", sep=""), width=w, height=h)
 
 p <- ggplot(res_med, aes(x=b, y=L2, color=method)) + geom_line()
+p <- p + scale_y_log10()
 p <- p + geom_hline(data=res_med_base, aes(yintercept=L2, color=method))
 p <- time_as_a_function_of_block_size(p, "L2 cache misses")
 
 ggsave(paste(base_name, "_L2", ".pdf", sep=""), width=w, height=h)
 
 
-p <- ggplot(res_med_best, aes(x=factor(m), y=factor(n), fill=ratio)) + geom_tile(width=1, height=1)
-p <- p + geom_label(aes(label=paste(base, round(ratio, 2), b, sep='\n')))
+p <- ggplot(res_med_best_best, aes(x=factor(m), y=factor(n), fill=ratio)) + geom_tile(width=1, height=1)
+p <- p + geom_label(aes(label=paste(method, b, round(ratio, 2), base, sep='\n')))
 p <- p + labs(x="M", y = "N", fill="Speedup of Tiled")
 p <- p + scale_fill_binned(low="yellow", high="red")
 p <- p + theme(legend.position="bottom")
